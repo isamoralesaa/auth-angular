@@ -34,23 +34,3 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-
-
-#LEEEME
-ng new Auth
-? Would you like to add Angular routing? Yes
-? Which stylesheet format would you like to use? CSS
-
-También necesitamos generar algunos componentes y servicios:
-
-ng g s _services/auth
-ng g s _services/token-storage
-ng g s _services/user
-
-ng g c login
-ng g c register
-ng g c home
-ng g c profile
-ng g c board-admin
-ng g c board-moderator
-ng g c board-user
